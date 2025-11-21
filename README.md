@@ -80,5 +80,4 @@ My goal is to build a portfolio that reflects real offensive security thinking.
 ---
 
 ## 📬 Contact  
-Feel free to reach out via GitHub or LinkedIn:  
-https://www.linkedin.com/in/jesus-cuenca-arj/
+Feel free to reach out https://www.linkedin.com/in/jesus-cuenca-arj/

@@ -40,7 +40,8 @@ My goal is to build a portfolio that reflects real offensive security thinking.
 
 ### 🔐 Ethical Exploitation & Analysis  
 - **Metasploit Framework**  
-- **Burp Suite**  
+- **Burp Suite**
+- **WireShark** 
 - **Searchsploit**  
 - **Hydra**  
   

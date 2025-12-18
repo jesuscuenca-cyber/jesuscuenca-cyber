@@ -1,60 +1,51 @@
-# 🧠💻 Welcome to My Cybersecurity Lab
+# Jesús Cuenca
 
-![Banner](https://img.shields.io/badge/Penetration%20Testing-Red%20Team-red?style=for-the-badge)
-![HTB](https://img.shields.io/badge/Hack%20The%20Box-Active%20Learner-brightgreen?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive%20Security-orange?style=for-the-badge)
-
----
-
-## 👋 About Me  
-
-Hi! I'm currently training to become a **Penetration Tester** with the goal of joining a **Red Team** in a cybersecurity environment.  
-This GitHub profile is my personal space to document what I learn, showcase my methodology, and demonstrate my ability to analyze and break down security challenges ethically.
-
-I focus heavily on:
-- Ethical hacking  
-- Adversary simulation  
-- Offensive security methodologies  
-- Hands-on practice with real-world vulnerabilities  
+Cybersecurity · Ethical Hacking · Offensive Security  
+Aspiring Penetration Tester focused on methodology, analysis, and real-world attack simulation.
 
 ---
 
-## 🧩 What You Will Find Here  
+## 👋 About Me
 
-📌 **Hack The Box machines solved**  
-📌 **Writeups (when allowed)** documenting methodology, enumeration flow, exploitation chains, and escalation vectors  
-📌 **Tools, scripts, and notes** I create while learning offensive security  
-📌 **Labs, challenges, and cybersecurity research**
+I am currently training in **offensive security and penetration testing**, with a strong interest in **Red Team operations**.
 
-My goal is to build a portfolio that reflects real offensive security thinking.
+This GitHub profile serves as a **technical portfolio**, where I document:
+- My problem-solving approach
+- My enumeration and exploitation methodology
+- My ability to analyze systems from an attacker’s perspective in an ethical and controlled environment
+
+My focus is not tool usage, but **understanding attack paths, decision-making, and impact**.
 
 ---
 
-## 🛠️ Tools & Technologies I Work With  
+## 🧠 Areas of Focus
 
-### 🔎 Enumeration & Recon  
-- **Nmap**  
-- **Gobuster**, **Dirsearch**  
-- **WhatWeb**, **Wappalyzer**  
-- **Enum4Linux**, **SMBMap**
+- Ethical Hacking & Offensive Security
+- Adversary Simulation
+- Vulnerability Analysis
+- Privilege Escalation (Linux & Windows)
+- Post-Exploitation & Lateral Movement
 
-### 🔐 Ethical Exploitation & Analysis  
-- **Metasploit Framework**  
-- **Burp Suite**
-- **WireShark** 
-- **Searchsploit**  
-- **Hydra**  
-  
-### ⚙️ Privilege Escalation & Post-Exploitation  
-- **LinPEAS / WinPEAS**  
-- **pspy**  
-- **BloodHound / SharpHound**  
-- System enumeration tools and misconfiguration analysis
+---
 
-### 💻 Environments  
-- **Kali Linux**  
-- **Windows Server labs**  
-- **Docker environments**
+## 🧩 What You’ll Find Here
+
+- ✔ Hack The Box machine walkthroughs (when allowed)
+- ✔ Methodology-driven writeups (enumeration → exploitation → escalation)
+- ✔ Custom scripts, notes, and tooling
+- ✔ Labs and controlled security research
+
+Each repository aims to reflect **structured offensive security thinking**, not just command execution.
+
+---
+
+## 🛠️ Technical Environment
+
+- Kali Linux
+- Windows Active Directory labs
+- Docker-based vulnerable environments
+
+(Tools are used as means, not as an objective.)
 
 ---
 

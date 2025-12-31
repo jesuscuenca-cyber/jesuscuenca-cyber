@@ -1,6 +1,6 @@
 # Jesús Cuenca
 
-Cybersecurity · Ethical Hacking · Offensive Security  
+🎯 Offensive Security | HTB | Hands-on Learning  
 Aspiring Penetration Tester focused on methodology, analysis, and real-world attack simulation.
 
 ---
@@ -24,7 +24,7 @@ Preparing for **eJPTv2**, with the goal of progressing towards **CPTS** and **OS
 - Privilege Escalation (Linux & Windows)
 - Post-Exploitation & Lateral Movement
 - Preparing for **eJPTv2**
-- 
+  
 ---
 
 ## 🧩 What You’ll Find Here

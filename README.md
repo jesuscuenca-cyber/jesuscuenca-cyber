@@ -7,14 +7,12 @@ Aspiring Penetration Tester focused on methodology, analysis, and real-world att
 
 ## 👋 About Me
 
-I am currently training in **offensive security and penetration testing**, with a strong interest in **Red Team operations**.
+Aspiring **Penetration Tester** with a strong hands-on approach and technical background in electronics.  
+Currently focused on developing real-world offensive security skills through **Hack The Box labs**, documentation, and continuous learning.
 
-This GitHub profile serves as a **technical portfolio**, where I document:
-- My problem-solving approach
-- My enumeration and exploitation methodology
-- My ability to analyze systems from an attacker’s perspective in an ethical and controlled environment
+I prioritize **methodology, understanding, and reproducibility**, not shortcuts.
 
-My focus is not tool usage, but **understanding attack paths, decision-making, and impact**.
+Preparing for **eJPTv2**, with the goal of progressing towards **CPTS** and **OSCP**.
 
 ---
 
@@ -25,7 +23,8 @@ My focus is not tool usage, but **understanding attack paths, decision-making, a
 - Vulnerability Analysis
 - Privilege Escalation (Linux & Windows)
 - Post-Exploitation & Lateral Movement
-
+- Preparing for **eJPTv2**
+- 
 ---
 
 ## 🧩 What You’ll Find Here
@@ -60,6 +59,10 @@ Each repository aims to reflect **structured offensive security thinking**, not 
     🔗 View my Hack The Box Profile
   </a>
 </p>
+
+
+📁 **Writeups Repository:**  
+👉 [https://github.com/jesuscuenca-cyber](https://github.com/jesuscuenca-cyber/Hack-The-Box_CTF)
 
 ---
 
